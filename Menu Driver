@@ -1,9 +1,0 @@
-//Menus
-
-
-
-System.out.println("Bank Account Menu");
-System.out.println("1. Check Balance");
-System.out.println("2. Deposit Funds");
-System.out.println("3. Withdraw Funds");
-System.out.println("5. Quit");
